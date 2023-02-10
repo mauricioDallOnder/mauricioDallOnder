@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning typescript/react
 - 👯 Always looking to colaborate
 - 💬 Ask me about all things about web development
-- 📫 How to reach me: Let's connect [Personal Website](https://mauriciodallonder.github.io/Personal-Portfolio/)
+- 📫 How to reach me: Let's connect [Personal Website](https://mauriciodallonder.github.io/portifolio/)
 
